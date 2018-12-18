@@ -1,0 +1,11 @@
+{
+  "name": "geektime-macos",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "package": "node ./pack.js"
+  },
+  "dependencies": {
+    "nativefier": "^7.6.9"
+  }
+}
